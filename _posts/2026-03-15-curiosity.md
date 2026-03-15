@@ -4,9 +4,6 @@ date: 2026-03-15 12:00:00 +0100
 #categories: [cybersecurity]
 #tags: [inicio]
 ---
-
-# Curiosity, Obsession, and One Line of Code
-
 ## From The Cuckoo’s Egg to the xz Backdoor
 
 In the early 1980s, an astronomer-turned-sysadmin noticed a 75-cent accounting discrepancy. In 2024, a software engineer noticed a barely perceptible increase in CPU usage during SSH logins.
